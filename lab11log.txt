@@ -1,0 +1,56 @@
+Script started on 2021-11-18 23:10:10-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab11[006799085@csusb.edu@jb359-3 Lab11]$ ./lab11
+using index operator to insert new pairs:
+
+Student ID? 1006
+Student Name? 
+Jim
+
+Student ID? 1004
+Student Name? 
+Marie     Alive  ce
+
+Student ID? 1008
+Student Name? 
+Fred
+
+Student ID? 1005
+Student Name? 
+Mare ie
+
+Student ID? 1001
+Student Name? 
+Tomm
+
+Student ID? 0
+
+Content of student database: 
+1001:Tomm
+1004:Alice
+1005:Marie
+1006:Jim
+1008:Fred
+
+Who you want to know?1005
+
+The corresponding name is: Marie
+Change which one? 1006
+
+...to what name? Bill
+
+1001:Tomm
+1004:Alice
+1005:Marie
+1006:Bill
+1008:Fred
+
+Remove which one? 1005
+
+1001:Tomm
+1004:Alice
+1006:Bill
+1008:Fred
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab11[006799085@csusb.edu@jb359-3 Lab11]$ exit
+exit
+
+Script done on 2021-11-18 23:12:03-08:00 [COMMAND_EXIT_CODE="0"]
